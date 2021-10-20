@@ -1,0 +1,14 @@
+Package: com.getramend.chargeanim
+Name: Charge Anim
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple tweak that gives you animations when you charge your iPhone!
+Maintainer: ramen
+Author: ramen
+Section: Tweak
+Depends:
+Filename: chargeanimramen.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
